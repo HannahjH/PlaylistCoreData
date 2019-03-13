@@ -44,8 +44,4 @@ class PlaylistController {
             print("There was an error in \(#function) \(error) \(error.localizedDescription)")
         }
     }
-    
-    func loadFromPersistentStore() {
-        
-    }
 }
